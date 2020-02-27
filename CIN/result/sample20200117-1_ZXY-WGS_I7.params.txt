@@ -1,0 +1,31 @@
+Sample	Tumor Fraction	Ploidy
+sample20200117-1_ZXY-WGS_I7	0.2898	1.872
+
+
+sample20200117-1_ZXY-WGS_I7
+Gender:	male
+Tumor Fraction:	0.2898
+Ploidy:	1.872
+Subclone Fraction:	0.1401
+Fraction Genome Subclonal:	0.3049
+Fraction CNA Subclonal:	0.4454
+Coverage:	NA
+ChrY coverage fraction:	0.002627
+ChrX median log ratio:	-0.9395
+Student's t mean: -0.14, 0.019, 0.15, 0.27, 0.38, -0.0019, 0.039
+Student's t precision: 6000, 4700, 2600, 700, 700, 3600, 5900
+Gamma Rate Init:	0.0029
+GC-Map correction MAD:	0.01955
+
+
+init	n_est	phi_est	BIC	Frac_genome_subclonal	Frac_CNA_subclonal	loglik
+n0.5-p2	0.56	1.904	NA	0.38	1	5484
+n0.5-p5	0.45	4.834	NA	0	0	4193
+n0.6-p2	0.7	1.853	NA	0.11	0.28	5590
+n0.6-p5	0.45	4.834	NA	0	0	4193
+n0.7-p2	0.71	1.872	NA	0.3	0.45	5746
+n0.7-p5	0.45	4.833	NA	0	0	4194
+n0.8-p2	0.71	1.874	NA	0.3	0.44	5744
+n0.8-p5	0.84	4.596	NA	0.29	0.29	4249
+n0.9-p2	0.8	2.317	NA	0.54	0.58	5261
+n0.9-p5	0.89	3.461	NA	0	0	4975
